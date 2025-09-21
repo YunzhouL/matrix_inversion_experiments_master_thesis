@@ -5,9 +5,10 @@ This repository contains the MATLAB experiments conducted for the master's thesi
 
 ## Overview
 The experiments evaluate the **accuracy** and **efficiency** of different numerical methods for computing the inverse of complex matrices.  
-In particular, the repository compares:
+In particular, the repository mainly compares:
 - **Frobenius-Schur inversion method**  
 - **Default LU-decomposition-based inversion method** (MATLAB built-in)
+- **QR-decomposition-based inversion method and SVD-decomposition-based inversion method
 
 ## Repository Structure
 - '.m' files in the **root folder**:  
