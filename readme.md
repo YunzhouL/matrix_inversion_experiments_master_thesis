@@ -8,7 +8,7 @@ The experiments evaluate the **accuracy** and **efficiency** of different numeri
 In particular, the repository mainly compares:
 - **Frobenius-Schur inversion method**  
 - **Default LU-decomposition-based inversion method** (MATLAB built-in)
-- **QR-decomposition-based inversion method and SVD-decomposition-based inversion method
+- QR-decomposition-based inversion method and SVD-decomposition-based inversion method
 
 ## Repository Structure
 - '.m' files in the **root folder**:  
